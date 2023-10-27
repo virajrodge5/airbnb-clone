@@ -31,5 +31,15 @@ Shows all the places booked by a user in the past
 Shows all the places owned by the user
 
 ![places](https://github.com/virajrodge5/airbnb-clone/assets/99235371/f13f7ab2-b2c2-4806-99d0-00ffb3ef0fd6)
+## Add a place
+Add a new place by selecting photos as well as mentioning the necessary information(such as address, perks, check-in and check-out times, charges and extra info)
+
+![book1](https://github.com/virajrodge5/airbnb-clone/assets/99235371/859ba4a6-46a0-402d-8dae-d33df4be82ae)
+![book2](https://github.com/virajrodge5/airbnb-clone/assets/99235371/4e53e082-9ab2-4a5b-8d13-fc7eed5dac4c)
+## Place preview
+See the place in more detail along with the booking option
+
+![place](https://github.com/virajrodge5/airbnb-clone/assets/99235371/bb83572b-c378-492f-8e91-5d49adc7f126)
+![place1](https://github.com/virajrodge5/airbnb-clone/assets/99235371/76866eb4-06a9-4360-a466-6fb1a322d0f1)
 
 
