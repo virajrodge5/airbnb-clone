@@ -41,5 +41,8 @@ See the place in more detail along with the booking option
 
 ![place](https://github.com/virajrodge5/airbnb-clone/assets/99235371/bb83572b-c378-492f-8e91-5d49adc7f126)
 ![place1](https://github.com/virajrodge5/airbnb-clone/assets/99235371/76866eb4-06a9-4360-a466-6fb1a322d0f1)
+## Booking summary
+Shows the places booked by the user i.e. the dates and the total cost
 
+![booked](https://github.com/virajrodge5/airbnb-clone/assets/99235371/7f594ead-52bb-449c-9c7f-f2b212ba07bf)
 
