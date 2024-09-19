@@ -1,7 +1,5 @@
 # Airbnb-clone
 Airbnb-clone is a booking app, where you can book your stays as well as upload your own places
-## Deployment
-The project is deployed at [airbnb-clone](). Feel free to check it out and use it.
 ## Frontend
 The frontend has been developed using ReactJS and TailwindCSS.
 ## Backend
